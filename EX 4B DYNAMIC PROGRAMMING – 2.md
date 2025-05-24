@@ -1,5 +1,4 @@
 # EX 4B DYNAMIC PROGRAMMING – 2
-## DATE:
 ## AIM:
 To find the longest string (or strings) that is a substring (or are substrings) of two strings..
 
